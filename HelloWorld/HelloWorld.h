@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  HelloWorld.h
 //  HelloWorld
 //
 //  Created by 高島 勝利 on 2012/11/03.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate> {
-    UIWindow *_window;
-}
-
-@property (retain, nonatomic) UIWindow *window;
+@interface HelloWorld : UIView
 
 @end

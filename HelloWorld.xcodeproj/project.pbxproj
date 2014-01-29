@@ -16,6 +16,18 @@
 		D19977F7164504C2005F4807 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = D19977F6164504C2005F4807 /* Default.png */; };
 		D19977F9164504C2005F4807 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D19977F8164504C2005F4807 /* Default@2x.png */; };
 		D19977FB164504C2005F4807 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D19977FA164504C2005F4807 /* Default-568h@2x.png */; };
+		D19978041645077E005F4807 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D19978021645077E005F4807 /* ViewController.m */; };
+		D19978051645077E005F4807 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D19978031645077E005F4807 /* ViewController.xib */; };
+		D199780816450803005F4807 /* HelloWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = D199780716450803005F4807 /* HelloWorld.m */; };
+		D199780A16451664005F4807 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D199780916451664005F4807 /* Icon.png */; };
+		D199780C16451671005F4807 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D199780B16451671005F4807 /* Icon@2x.png */; };
+		D199780E1645171F005F4807 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = D199780D1645171F005F4807 /* Default.png */; };
+		D199781016451756005F4807 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D199780F16451756005F4807 /* Default@2x.png */; };
+		D1997812164517B4005F4807 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D1997811164517B4005F4807 /* Default-568h@2x.png */; };
+		D19978141645181B005F4807 /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = D19978131645181B005F4807 /* Default-Portrait~ipad.png */; };
+		D19978161645185A005F4807 /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = D19978151645185A005F4807 /* Default-Portrait@2x~ipad.png */; };
+		D19978181645186A005F4807 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = D19978171645186A005F4807 /* Default-Landscape~ipad.png */; };
+		D199781A16451878005F4807 /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = D199781916451878005F4807 /* Default-Landscape@2x~ipad.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +44,20 @@
 		D19977F6164504C2005F4807 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		D19977F8164504C2005F4807 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		D19977FA164504C2005F4807 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		D19978011645077E005F4807 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D19978021645077E005F4807 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D19978031645077E005F4807 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		D199780616450803005F4807 /* HelloWorld.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloWorld.h; sourceTree = "<group>"; };
+		D199780716450803005F4807 /* HelloWorld.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloWorld.m; sourceTree = "<group>"; };
+		D199780916451664005F4807 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		D199780B16451671005F4807 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		D199780D1645171F005F4807 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		D199780F16451756005F4807 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		D1997811164517B4005F4807 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		D19978131645181B005F4807 /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
+		D19978151645185A005F4807 /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
+		D19978171645186A005F4807 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		D199781916451878005F4807 /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +77,15 @@
 		D19977D5164504C2005F4807 = {
 			isa = PBXGroup;
 			children = (
+				D199781916451878005F4807 /* Default-Landscape@2x~ipad.png */,
+				D19978171645186A005F4807 /* Default-Landscape~ipad.png */,
+				D19978151645185A005F4807 /* Default-Portrait@2x~ipad.png */,
+				D19978131645181B005F4807 /* Default-Portrait~ipad.png */,
+				D1997811164517B4005F4807 /* Default-568h@2x.png */,
+				D199780F16451756005F4807 /* Default@2x.png */,
+				D199780D1645171F005F4807 /* Default.png */,
+				D199780B16451671005F4807 /* Icon@2x.png */,
+				D199780916451664005F4807 /* Icon.png */,
 				D19977EA164504C2005F4807 /* HelloWorld */,
 				D19977E3164504C2005F4807 /* Frameworks */,
 				D19977E1164504C2005F4807 /* Products */,
@@ -80,6 +115,11 @@
 			children = (
 				D19977F3164504C2005F4807 /* AppDelegate.h */,
 				D19977F4164504C2005F4807 /* AppDelegate.m */,
+				D19978011645077E005F4807 /* ViewController.h */,
+				D19978021645077E005F4807 /* ViewController.m */,
+				D19978031645077E005F4807 /* ViewController.xib */,
+				D199780616450803005F4807 /* HelloWorld.h */,
+				D199780716450803005F4807 /* HelloWorld.m */,
 				D19977EB164504C2005F4807 /* Supporting Files */,
 			);
 			path = HelloWorld;
@@ -154,6 +194,16 @@
 				D19977F7164504C2005F4807 /* Default.png in Resources */,
 				D19977F9164504C2005F4807 /* Default@2x.png in Resources */,
 				D19977FB164504C2005F4807 /* Default-568h@2x.png in Resources */,
+				D19978051645077E005F4807 /* ViewController.xib in Resources */,
+				D199780A16451664005F4807 /* Icon.png in Resources */,
+				D199780C16451671005F4807 /* Icon@2x.png in Resources */,
+				D199780E1645171F005F4807 /* Default.png in Resources */,
+				D199781016451756005F4807 /* Default@2x.png in Resources */,
+				D1997812164517B4005F4807 /* Default-568h@2x.png in Resources */,
+				D19978141645181B005F4807 /* Default-Portrait~ipad.png in Resources */,
+				D19978161645185A005F4807 /* Default-Portrait@2x~ipad.png in Resources */,
+				D19978181645186A005F4807 /* Default-Landscape~ipad.png in Resources */,
+				D199781A16451878005F4807 /* Default-Landscape@2x~ipad.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,6 +216,8 @@
 			files = (
 				D19977F1164504C2005F4807 /* main.m in Sources */,
 				D19977F5164504C2005F4807 /* AppDelegate.m in Sources */,
+				D19978041645077E005F4807 /* ViewController.m in Sources */,
+				D199780816450803005F4807 /* HelloWorld.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,10 +288,13 @@
 		D19977FF164504C2005F4807 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -247,10 +302,13 @@
 		D1997800164504C2005F4807 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -265,7 +323,7 @@
 				D19977FD164504C2005F4807 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		D19977FE164504C2005F4807 /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
 			isa = XCConfigurationList;
@@ -274,6 +332,7 @@
 				D1997800164504C2005F4807 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
